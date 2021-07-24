@@ -25,16 +25,16 @@ This project was designed as a homework assignment for UT Austin coding bootcamp
 
 # Application Preview : 
 Main Page
-|![Main Page](public/assets/images/Main.jpg)
+![Main Page](public/assets/images/Main.JPG)
 
 Save Notes
-![Saved Notes](public/assets/images/SavedNote.jpg)
+![Saved Notes](public/assets/images/SavedNote.JPG)
 
 Delete Notes
-![Delete Note](public/assets/images/DeleteNote.jpg)
+![Delete Note](public/assets/images/DeleteNote.JPG)
 
 Add Notes
-![Delete Note](public/assets/images/AddNote.jpg)
+![Delete Note](public/assets/images/AddNote.JPG)
 
 # Technology :
 
