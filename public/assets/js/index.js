@@ -34,8 +34,7 @@ const getNotes = () =>
   });
 
 const saveNote = (note) =>{
-if(note.title && note.text)
-{
+
   fetch('/api/notes', {
     method: 'POST',
     headers: {
@@ -43,11 +42,8 @@ if(note.title && note.text)
     },
     body: JSON.stringify(note),
   });
-}
-else
-{
-  alert("Please Enter ")
-}
+
+
 }
 
 const deleteNote = (id) =>
