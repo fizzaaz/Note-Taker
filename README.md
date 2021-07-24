@@ -21,7 +21,7 @@ This project was designed as a homework assignment for UT Austin coding bootcamp
 * [Questions](#questions)
 
 # Demo :
-![Note Taker](public/assets/images/NoteTaker.gif)
+![Note Taker](public/assets/demo/NoteTaker.gif)
 
 # Application Preview : 
 Main Page
