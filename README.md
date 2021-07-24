@@ -3,7 +3,7 @@
 
 <h4>Designed and coded by <a href="https://github.com/fizzaaz">FIZZA ZAIDI</a></h4>
 
-This project was designed as a homework assignment for UT Austin coding bootcamp.  This application emphasizes the use of express framework to create an node application. The challenge is to create an application called Note Taker that can be used to write, save and delete notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+This project was designed as a homework assignment for UT Austin coding bootcamp. This application emphasizes the use of express framework to create an node application. The challenge is to create an application called Note Taker that can be used to write, save and delete notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file. For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
 ## Getting Started
 🔍This entire application is deployed to Heroku. To get this project up and running, you can follow the deployment link. Or, clone the repository from GitHub to use this as a template.
@@ -20,29 +20,11 @@ This project was designed as a homework assignment for UT Austin coding bootcamp
 * [Contribution](#contribution)
 * [Questions](#questions)
 
-# User Story
-
-```
-AS A user, I want to be able to write and save notes.
-
-I WANT to be able to delete notes I've written before.
-
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
-```
-
-# Business Context
-
-* For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. 
-
-* Being able to take persistent notes allows users to have written information available when needed.
-
 # Demo :
 ![Note Taker](public/assets/images/NoteTaker.gif)
 
 # Application Preview : 
 
-|Main Page|Saved Notes|Delete Note
-|--|--|--
 |![Main Page](public/assets/images/NoteTaker.png)
 ![Saved Notes](public/assets/images/SavedNotes.png)
 ![Delete Note](public/assets/images/DeleteNote.png)
@@ -94,6 +76,14 @@ node server.js
 3. Used [uuid](https://www.npmjs.com/package/uuid) npm package to give unique id to each note.
 
 4. Application is deployed on [heroku](https://www.heroku.com/) : Heroku is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps.
+
+# User Requirements
+
+* Able to write and save notes. 
+* Able to delete notes I've written before.
+* Able to organize my thoughts and keep track of tasks I need to complete.
+
+#
 
 # License
 
