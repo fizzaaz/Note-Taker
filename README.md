@@ -24,10 +24,17 @@ This project was designed as a homework assignment for UT Austin coding bootcamp
 ![Note Taker](public/assets/images/NoteTaker.gif)
 
 # Application Preview : 
+Main Page
+|![Main Page](public/assets/images/Main.jpg)
 
-|![Main Page](public/assets/images/NoteTaker.png)
-![Saved Notes](public/assets/images/SavedNotes.png)
-![Delete Note](public/assets/images/DeleteNote.png)
+Save Notes
+![Saved Notes](public/assets/images/SavedNote.jpg)
+
+Delete Notes
+![Delete Note](public/assets/images/DeleteNote.jpg)
+
+Add Notes
+![Delete Note](public/assets/images/AddNote.jpg)
 
 # Technology :
 
